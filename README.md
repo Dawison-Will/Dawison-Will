@@ -28,7 +28,7 @@ Base sólida em:
 - Estrutura de Dados  
 - Engenharia de Sistemas  
 
-> *“Os planos bem elaborados conduzem à fartura.”* — Provérbios 21:5
+
 
 ---
 
@@ -45,13 +45,3 @@ Base sólida em:
 - Git & GitHub
 - SQL (conceitos)
 
----
-
-## 📊 Principais Competências
-
-```text
-Lógica de Programação        ██████████ 90%
-Python                      █████████░ 85%
-Back-End                    ████████░░ 80%
-Git / GitHub                ████████░░ 80%
-Java                         ███████░░░ 70%
